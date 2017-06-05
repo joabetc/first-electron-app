@@ -1,0 +1,11 @@
+{
+  "name": "first-electron-app",
+  "version": "0.1.0",
+  "main": "./resources/app/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "~1.6.2"
+  }
+}
